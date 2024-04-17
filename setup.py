@@ -14,7 +14,7 @@ setup(
     long_description_content_type='text/markdown',
     author='Mr Dew',
     author_email='james@meeteden.dev',
-    url='https://github.com/yourusername/your_package_name',
+    url='https://github.com/jamestylerboyd/bobByDew',
     install_requires=open('requirements.txt').read().splitlines(),
     # Specify the entry point for the script
     entry_points={
